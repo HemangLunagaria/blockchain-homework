@@ -36,6 +36,8 @@ BitWolf investors are able to invest in just one click using our investing platf
 
 4. In established markets such as equities and commodities, algorithmic trading has been dominated by highly sophisticated institutions that have invested heavily in developing proprietary strategies and infrastructure. However, in the nascent cryptocurrency markets, algorithmic trading is becoming more accessible to individual traders and retail investors.
 
+![bitwolf_operation](images/bitwolf-operation.png)
+
 ## Resources
 1. [White paper](https://bitwolfcapital.com/downloadable/whitepaper.pdf)
 2. [Benefits of algo trading](https://hackernoon.com/algorithmic-trading-is-changing-crypto-trading-one-bot-at-a-time-3a1234na)
